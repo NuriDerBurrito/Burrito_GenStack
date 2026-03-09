@@ -1,0 +1,59 @@
+{
+  "name": "burrito-genstack",
+  "productName": "Burrito GenStack",
+  "version": "1.2.1",
+  "description": "Database app for organizing model downloads for stable diffusion webui (gutris1's segsmaker version)",
+  "main": ".webpack/main",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "publish": "electron-forge publish",
+    "lint": "echo \"No linting configured\""
+  },
+  "keywords": [],
+  "author": "NuriDerBurrito",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/preset-react": "^7.28.5",
+    "@electron-forge/cli": "^7.10.2",
+    "@electron-forge/maker-deb": "^7.10.2",
+    "@electron-forge/maker-rpm": "^7.10.2",
+    "@electron-forge/maker-squirrel": "^7.10.2",
+    "@electron-forge/maker-zip": "^7.10.2",
+    "@electron-forge/plugin-auto-unpack-natives": "^7.10.2",
+    "@electron-forge/plugin-fuses": "^7.10.2",
+    "@electron-forge/plugin-webpack": "^7.11.1",
+    "@electron/fuses": "^1.8.0",
+    "@vercel/webpack-asset-relocator-loader": "^1.7.3",
+    "babel-loader": "^10.0.0",
+    "css-loader": "^6.11.0",
+    "electron": "39.2.3",
+    "node-loader": "^2.1.0",
+    "postcss-loader": "^8.2.0",
+    "style-loader": "^3.3.4",
+    "tailwindcss": "^3.4.17"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.22",
+    "axios": "^1.7.7",
+    "cheerio": "^1.1.2",
+    "clsx": "^2.1.1",
+    "electron-squirrel-startup": "^1.0.1",
+    "events": "^3.3.0",
+    "framer-motion": "^12.23.24",
+    "lucide-react": "^0.554.0",
+    "postcss": "^8.5.6",
+    "process": "^0.11.10",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "uuid": "^13.0.0"
+  },
+  "overrides": {
+    "tar": "^7.4.4",
+    "@tootallnate/once": "^3.0.1",
+    "webpack-dev-server": "^5.2.1",
+    "tmp": "^0.2.3"
+  }
+}
