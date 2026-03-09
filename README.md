@@ -14,8 +14,30 @@ Burrito GenStack is an Electron-based application designed to help AI artists, S
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)
 
 ---
+<p align="left">
+<a href="https://github.com/NuriDerBurrito/Burrito_GenStack/stargazers">
+<img src="https://img.shields.io/github/stars/NuriDerBurrito/Burrito_GenStack?style=for-the-badge&logo=github&color=yellow" alt="GitHub stars">
+</a>
+<a href="https://github.com/NuriDerBurrito/Burrito_GenStack/network/members">
+<img src="https://img.shields.io/github/forks/NuriDerBurrito/Burrito_GenStack?style=for-the-badge&logo=github&color=blue" alt="GitHub forks">
+</a>
+<a href="https://github.com/NuriDerBurrito/Burrito_GenStack/watchers">
+<img src="https://img.shields.io/github/watchers/NuriDerBurrito/Burrito_GenStack?style=for-the-badge&logo=github&color=green" alt="GitHub watchers">
+</a>
+<a href="https://github.com/NuriDerBurrito/Burrito_GenStack/issues">
+<img src="https://img.shields.io/github/issues/NuriDerBurrito/Burrito_GenStack?style=for-the-badge&logo=github&color=red" alt="GitHub issues">
+</a>
+</p>
+
+<p align="left">
+<a href="https://github.com/NuriDerBurrito/Burrito_GenStack">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=NuriDerBurrito.Burrito_GenStack&left_text=Visitors&style=for-the-badge&left_color=gray&right_color=brightgreen" alt="Visitors">
+</a>
+</p>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/NuriDerBurrito/Burrito_GenStack)
+
+---
 ## ✨ Features
 
 ### 📁 Smart Organization
@@ -149,7 +171,6 @@ and includes custom template options.
 ---
 
 ## 📬 Contact
-<img width="69" height="69" alt="main_logo" src="https://github.com/user-attachments/assets/6971eb2f-66f0-4c09-b111-b80f86fc6528" />
 
 - **Discord:** nuriderburrito
 - **GitHub:** [NuriDerBurrito](https://github.com/NuriDerBurrito)
@@ -160,6 +181,8 @@ and includes custom template options.
 Feel free to add suggestions report issues!
 
 *Made with 🌯 by NuriDerBurrito*
-
-![GitHub stars](https://img.shields.io/github/stars/NuriDerBurrito/Burrito_GenStack?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/NuriDerBurrito/Burrito_GenStack?style=social)
+🌯
+---
+<p align="center">
+<img width="69" height="69" alt="main_logo" src="https://github.com/user-attachments/assets/6971eb2f-66f0-4c09-b111-b80f86fc6528" />
+</p>
